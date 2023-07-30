@@ -1,5 +1,4 @@
-package com.xdev.merch.model.entity;
-
+package com.xdev.merch.model;
 import javax.persistence.*;
 import java.io.Serializable;
 @Entity

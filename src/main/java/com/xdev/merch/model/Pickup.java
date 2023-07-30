@@ -1,5 +1,4 @@
-package com.xdev.merch.model.entity;
-
+package com.xdev.merch.model;
 public class Pickup {
 
 	private int id;

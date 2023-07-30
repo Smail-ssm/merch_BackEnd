@@ -1,4 +1,7 @@
-package com.xdev.merch.model.entity;
+package com.xdev.merch.model;
+import java.security.Timestamp;
+import java.time.LocalDateTime;
+
 
 public class Product {
 

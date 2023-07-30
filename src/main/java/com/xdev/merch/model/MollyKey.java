@@ -1,5 +1,4 @@
-package com.xdev.merch.model.entity;
-
+package com.xdev.merch.model;
 public class MollyKey {
 
 	private int id;

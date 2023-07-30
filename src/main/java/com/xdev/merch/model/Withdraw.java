@@ -1,4 +1,6 @@
-package com.xdev.merch.model.entity;
+package com.xdev.merch.model;
+
+import java.time.LocalDateTime;
 
 public class Withdraw {
 

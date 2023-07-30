@@ -1,5 +1,4 @@
-package com.xdev.merch.model.entity;
-
+package com.xdev.merch.model;
 import java.time.LocalDate;
 import java.time.LocalDateTime;
 

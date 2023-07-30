@@ -1,5 +1,4 @@
-package com.xdev.merch.model.entity;
-
+package com.xdev.merch.model;
 import javax.persistence.Column;
 import javax.persistence.Entity;
 import javax.persistence.Id;
