@@ -1,5 +1,6 @@
 package com.xdev.merch.model;
 import java.security.Timestamp;
+import java.util.Date;
 
 
 public class Coupon {
